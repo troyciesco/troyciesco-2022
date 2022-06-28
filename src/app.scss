@@ -1,0 +1,20 @@
+@import "@fontsource/abril-fatface";
+@import "@fontsource/lora";
+@import "@fontsource/josefin-sans";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	@apply font-headline;
+}
+
+p,
+span {
+	@apply font-body;
+}
