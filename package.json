@@ -29,6 +29,7 @@
 	"type": "module",
 	"dependencies": {
 		"@fontsource/abril-fatface": "^4.5.7",
+		"@fontsource/corben": "^4.5.8",
 		"@fontsource/josefin-sans": "^4.5.9",
 		"@fontsource/lora": "^4.5.9",
 		"cookie": "^0.4.1"

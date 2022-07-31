@@ -7,6 +7,11 @@
   resolved "https://registry.yarnpkg.com/@fontsource/abril-fatface/-/abril-fatface-4.5.7.tgz#0cc367e598ef4783586cdc6ccf0efa16e1485f49"
   integrity sha512-aBVXzo7jA/af5Ke7WqMvF3xZS1APDovy5o0nqnmS6P4jQU24dvmz37nIcb6b4gHE3Z4RYAQQZof/tTBVeorzzw==
 
+"@fontsource/corben@^4.5.8":
+  version "4.5.8"
+  resolved "https://registry.yarnpkg.com/@fontsource/corben/-/corben-4.5.8.tgz#11532c2923210dffbda045c1a25b38c5afedef16"
+  integrity sha512-u4lU16rmypiSbt8crZJq5Uq11Q59v4wa3mg4TWZ2dq88Ukw1Is2GDfx1IIsxDOssocg6/ac9schqaDNmEDHYEA==
+
 "@fontsource/josefin-sans@^4.5.9":
   version "4.5.9"
   resolved "https://registry.yarnpkg.com/@fontsource/josefin-sans/-/josefin-sans-4.5.9.tgz#765c8fd84a51fdb3ba7bc6e0a2b9e0d58884a475"
