@@ -62,7 +62,7 @@
 	<div class="relative max-w-7xl mx-auto">
 		<div class="text-center">
 			<h2 class="text-3xl tracking-wide font-extrabold text-primary-800 sm:text-4xl">Featured Projects</h2>
-			<p class="mt-3 max-w-2xl mx-auto text-xl text-primary-800 sm:mt-4">
+			<p class="mt-3 max-w-2xl px-4 mx-auto text-xl text-primary-800 sm:mt-4">
 				These are some of the coolest things I've worked on over the past few months. Some are solo projects and some involve a small team.
 			</p>
 		</div>

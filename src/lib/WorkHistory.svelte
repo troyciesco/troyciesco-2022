@@ -93,7 +93,7 @@
 <section>
 	<div class="text-center">
 		<h2 class="text-3xl tracking-wide font-extrabold text-primary-800 sm:text-4xl">Work History</h2>
-		<p class="mt-3 max-w-2xl mx-auto text-xl text-primary-800 sm:mt-4">
+		<p class="mt-3 max-w-2xl px-4 mx-auto text-xl text-primary-800 sm:mt-4">
 			These are my most relevant software engineering positions, going back about 4 - 5 years. More information is available <a
 				class="text-primary-700 font-bold underline"
 				href="https://tmciesco-content.s3.amazonaws.com/img/troy-ciesco-resume.pdf">on my resume</a
