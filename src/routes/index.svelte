@@ -9,7 +9,7 @@
 
 <svelte:head>
 	<title>Home | Troy Ciesco</title>
-	<meta name="description" content="Portfolio website of Troy Ciesco" />
+	<meta name="description" content="The Website of software engineer Troy Ciesco" />
 </svelte:head>
 
 <main>

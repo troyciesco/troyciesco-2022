@@ -41,7 +41,7 @@
 
 <section>
 	<div class="text-center">
-		<h2 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">Work History</h2>
+		<h2 class="text-3xl tracking-wide font-extrabold text-gray-900 sm:text-4xl">Work History</h2>
 		<p class="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">
 			These are my most relevant software engineering positions, going back about 4 - 5 years. More information is available <a
 				class="text-blue-600 font-bold underline"
