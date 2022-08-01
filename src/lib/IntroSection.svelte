@@ -12,7 +12,7 @@
 			<div class="relative text-base mx-auto max-w-prose lg:max-w-none">
 				<figure>
 					<div class="aspect-w-12 aspect-h-7 lg:aspect-none">
-						<img class="rounded-lg shadow-lg object-cover object-center" src={image} alt="Troy and Becca" width="1184" height="1376" />
+						<img class="rounded-lg shadow-lg object-cover object-center" src={image} alt="Troy and Becca" width="592" height="592" />
 					</div>
 					<figcaption class="mt-3 flex text-sm text-primary-700">
 						<span class="ml-2">I'm on the right!</span>

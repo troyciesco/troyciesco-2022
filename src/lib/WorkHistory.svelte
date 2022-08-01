@@ -104,7 +104,7 @@
 		{#each jobs as job}
 			<div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8 lg:grid lg:grid-cols-3 lg:gap-x-8">
 				<div>
-					<p class="text-base font-semibold text-secondary-700 uppercase tracking-wide">{job.dateRange}</p>
+					<p class="text-base font-semibold text-secondary-800 uppercase tracking-wide">{job.dateRange}</p>
 					<h3 class="mt-2 text-3xl text-primary-800">
 						<span class="font-extrabold">{job.title}</span>,<br /><span class="font-normal">{job.company}</span>
 					</h3>

@@ -5,7 +5,7 @@
 			tagline: "Proptech Startup",
 			description:
 				"A seed-stage startup that helps real estate brokerages and rental properties offer easier unit showings to their prospective renters.",
-			image: "https://res.cloudinary.com/tmciesco/image/upload/v1632180647/agent_showing_a4154c3725.jpg",
+			image: "https://res.cloudinary.com/tmciesco/image/upload/q_auto:good/c_scale,w_auto/v1632180647/agent_showing_a4154c3725.jpg",
 			link: "/",
 			tags: ["TypeScript", "React", "Next.js", "Supabase", "Tailwind"]
 		},
@@ -15,7 +15,7 @@
 			description:
 				"A small CMS I originally built for my girlfriend and I to use for our various blog ideas. It draws inspiration from Netlify CMS and includes a Cloudinary media library.",
 			image:
-				"https://images.unsplash.com/photo-1516739063901-94072f684dfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80",
+				"https://images.unsplash.com/photo-1516739063901-94072f684dfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
 			link: "/",
 			tags: ["TypeScript", "Sveltekit", "Supabase", "Tailwind"]
 		},
@@ -24,7 +24,7 @@
 			tagline: "Event Planning Webapp",
 			description: "A site I created so that my friends and I can plan events without needing to resort to using Facebook.",
 			image:
-				"https://images.unsplash.com/photo-1496843916299-590492c751f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
+				"https://images.unsplash.com/photo-1496843916299-590492c751f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
 			link: "/",
 			tags: ["TypeScript", "Sveltekit", "Tailwind"]
 		},
@@ -33,7 +33,7 @@
 			tagline: "Fictional Tour Booking Site",
 			description: "Fictional wildlife tour company that includes booking for tours and lodging, an ecommerce shop, and a moose mascot!",
 			image:
-				"https://images.unsplash.com/photo-1602391950852-88bf9be72b24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2254&q=80",
+				"https://images.unsplash.com/photo-1602391950852-88bf9be72b24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
 			link: "/",
 			tags: ["TypeScript", "SCSS"]
 		},
@@ -42,7 +42,8 @@
 			tagline: "Photography Portfolio",
 			description:
 				"My wildlife photography portfolio. The original idea was that I'd just take a birb (bird) picture every day, but I was having fun with it - so now I have a full-fledged portfolio site.",
-			image: "https://res.cloudinary.com/tmciesco/image/upload/v1658173447/100-days-of-birbs/20220710-DSC_0001.jpg",
+			image:
+				"https://res.cloudinary.com/tmciesco/image/upload/q_auto:good/c_scale,w_auto/v1658173447/100-days-of-birbs/20220710-DSC_0001.jpg",
 			link: "/",
 			tags: ["TypeScript", "SCSS"]
 		},
@@ -51,7 +52,7 @@
 			tagline: "Blog",
 			description: "A blog (connected to the aforementioned Padl CMS) where my girlfriend writes about the books she's reading.",
 			image:
-				"https://images.unsplash.com/photo-1495446815901-a7297e633e8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+				"https://images.unsplash.com/photo-1495446815901-a7297e633e8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
 			link: "/",
 			tags: ["TypeScript", "Tailwind"]
 		}
@@ -74,7 +75,7 @@
 					</div>
 					<div class="flex-1 p-6 flex flex-col justify-between">
 						<div class="flex-1">
-							<p class="text-sm font-medium text-secondary-700">
+							<p class="text-sm font-medium text-secondary-800">
 								<span class="hover:underline">{project.tagline}</span>
 							</p>
 							<span class="block mt-2">
@@ -86,7 +87,7 @@
 						</div>
 						<div class="mt-6 flex items-center flex-wrap gap-2">
 							{#each project.tags as tag}
-								<span class="inline-flex items-center px-3 py-1 rounded-full text-sm bg-secondary-100 text-secondary-700">{tag}</span>
+								<span class="inline-flex items-center px-3 py-1 rounded-full text-sm bg-secondary-100 text-secondary-800">{tag}</span>
 							{/each}
 						</div>
 					</div>
