@@ -1,5 +1,8 @@
 <script context="module" lang="ts">
+	import FeaturedProjects from "$lib/FeaturedProjects.svelte"
 	import IntroSection from "$lib/IntroSection.svelte"
+	import Now from "$lib/Now.svelte"
+	import WorkHistory from "$lib/WorkHistory.svelte"
 
 	export const prerender = true
 </script>
@@ -17,4 +20,7 @@
 		<p class="max-w-prose text-center text-md md:text-lg">I'm a full-stack software engineer from Connecticut.</p>
 	</section>
 	<IntroSection />
+	<Now />
+	<FeaturedProjects />
+	<WorkHistory />
 </main>
