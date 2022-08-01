@@ -6,34 +6,20 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				primary: colors.gray,
-				// primary: {
-				// 	50: "#E7F9F5",
-				// 	100: "#CCF0E8",
-				// 	200: "#7BD7C5",
-				// 	300: "#43C6AD",
-				// 	400: "#32A48E",
-				// 	500: "#00509d",
-				// 	600: "#1F6759",
-				// 	700: "#035453",
-				// 	800: "#123F36",
-				// 	900: "#012F34",
-				// 	lightest: "#012F34",
-				// 	lighter: "#012F34",
-				// 	light: "#012F34",
-				// 	base: "#012F34",
-				// 	dark: "#014E56",
-				// 	darker: "#012F34",
-				// 	darkest: "#012F34"
-				// },
+				primary: {
+					...colors.red,
+					500: "#2EB9DC",
+					600: "#0093B5",
+					700: "#006F90",
+					800: "#004D6C",
+					900: "#002D4A"
+				},
 				secondary: {
-					lightest: "#012F34",
-					lighter: "#012F34",
-					light: "#012F34",
-					base: "#F67E7E",
-					dark: "#012F34",
-					darker: "#012F34",
-					darkest: "#012F34"
+					...colors.red,
+					100: "#dbfdeb",
+					500: "#88F9BB",
+					600: "#53C58B",
+					700: "#11945D"
 				}
 			},
 			fontFamily: {
