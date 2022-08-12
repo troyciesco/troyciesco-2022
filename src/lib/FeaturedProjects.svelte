@@ -42,8 +42,7 @@
 			tagline: "Photography Portfolio",
 			description:
 				"My wildlife photography portfolio. The original idea was that I'd just take a birb (bird) picture every day, but I was having fun with it - so now I have a full-fledged portfolio site.",
-			image:
-				"https://res.cloudinary.com/tmciesco/image/upload/q_auto:good/c_scale,w_auto/v1658173447/100-days-of-birbs/20220710-DSC_0001.jpg",
+			image: "https://res.cloudinary.com/tmciesco/image/upload/v1660311204/100-days-of-birbs/20220710-DSC_0001.jpg",
 			link: "/",
 			tags: ["TypeScript", "SCSS"]
 		},
