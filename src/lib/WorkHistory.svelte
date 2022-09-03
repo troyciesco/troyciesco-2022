@@ -14,7 +14,7 @@
 			]
 		},
 		{
-			dateRange: "Jun 2021 - Oct 2022",
+			dateRange: "Jun 2021 - Oct 2021",
 			title: "Software Engineer",
 			company: "Walt Disney Co.",
 			intro: "",
